@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN221PE_SU24TrialTest_HuynhNguyenNgocNguyen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C51AE609-16A9-4AC9-8EC0-C64184E5614C}|OilPaintingArt_HuynhNguyenNgocNguyen\\OilPaintingArt_HuynhNguyenNgocNguyen.csproj|d:\\prn221pe_su24trialtest_huynhnguyenngocnguyen\\oilpaintingart_huynhnguyenngocnguyen\\pages\\oilpaintingartpage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51AE609-16A9-4AC9-8EC0-C64184E5614C}|OilPaintingArt_HuynhNguyenNgocNguyen\\OilPaintingArt_HuynhNguyenNgocNguyen.csproj|solutionrelative:oilpaintingart_huynhnguyenngocnguyen\\pages\\oilpaintingartpage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\PRN221PE_SU24TrialTest_HuynhNguyenNgocNguyen\\OilPaintingArt_HuynhNguyenNgocNguyen\\Pages\\OilPaintingArtPage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "OilPaintingArt_HuynhNguyenNgocNguyen\\Pages\\OilPaintingArtPage\\Index.cshtml.cs",
+              "ToolTip": "D:\\PRN221PE_SU24TrialTest_HuynhNguyenNgocNguyen\\OilPaintingArt_HuynhNguyenNgocNguyen\\Pages\\OilPaintingArtPage\\Index.cshtml.cs",
+              "RelativeToolTip": "OilPaintingArt_HuynhNguyenNgocNguyen\\Pages\\OilPaintingArtPage\\Index.cshtml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T01:40:40.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

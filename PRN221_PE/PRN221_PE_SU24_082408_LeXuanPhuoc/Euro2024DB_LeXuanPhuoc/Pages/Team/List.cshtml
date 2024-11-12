@@ -1,0 +1,130 @@
+﻿@page "{pageIndex:int?}"
+@model Euro2024DB_LeXuanPhuoc.Pages.Team.ListModel
+
+@{
+    var teams = Model.Teams;
+
+    var isAdmin = HttpContext.Session.GetInt32("AccountRole") == 1;
+
+    var currentPage = ViewData["CurrentPage"] != null
+        ? Convert.ToInt32(ViewData["CurrentPage"]?.ToString())
+        : 1;
+
+    var totalPage = ViewData["TotalPage"] != null
+        ? Convert.ToInt32(ViewData["TotalPage"]?.ToString())
+        : 1;
+}
+
+<div class="container">
+    <div class="d-flex justify-content-between mt-5">
+        <h2>List of Team</h2>
+        <div>
+            @if (isAdmin)
+            {
+                <a href="/Team/Create" class="btn btn-success">Create</a>
+            }
+        </div>
+    </div>
+
+
+    @if (isAdmin)
+    {
+        <div class="d-flex mt-5 justify-content-between">
+            <div></div>
+            <form method="get" class="d-inline-flex">
+                <div class="form-group">
+                    <input type="text" asp-for="SearchValue" name="searchValue" placeholder="Search..." class="p-2 mt-1 rounded-3 border border-1 form-control" />
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Search" class="ms-1 mt-1 p-2 btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    }
+
+    @if (teams != null
+    && teams.Any())
+    {
+        <div class="table-responsive">
+            <table class="p-4 mt-3 table table-bordered text-center">
+                <thead>
+                    <th>ID</th>
+                    <th>TeamName</th>
+                    <th>GroupName</th>
+                    <th>Position</th>
+                    @if (isAdmin)
+                    {
+                    <th>Action</th>
+                    }
+                </thead>
+                <tbody>
+                    @foreach (var item in teams)
+                    {
+                        <tr>
+                            <td>@item.Id</td>
+                            <td>@item.TeamName</td>
+                            <td>@item.Group?.GroupName</td>
+                            <td>@item.Position</td>
+                            @if (isAdmin)
+                            {
+                                <td class="d-inline-flex bg-white justify-content-center p-2">
+                                    <a href="/Team/Update/@item?.Id" class="btn btn-warning">Update</a>
+                                    <a href="#" class="btn btn-danger ms-2"
+                                       onclick="return confirmPopupDelete(this);"
+                                       data-delete-url="/Team/Delete/@item?.Id">
+                                        Delete
+                                    </a>
+                                </td>
+                            }
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+            <div class="d-flex justify-content-end">
+                <nav aria - label="Page Navigation">
+                    <ul class="pagination">
+                        <li class="page-item @((currentPage == 1) ? "disabled" : "")">
+                            <a class="page-link" href="/Team/List/@(currentPage - 1)">
+                                Previous
+                            </a>
+                        </li>
+                        @for (int i = 1; i <= totalPage; ++i)
+                        {
+                            <li class="page-item">
+                                <a class="page-link @((i==currentPage) ? "text-white bg-dark bg-opacity-25 " : "")"
+                                   href="/Team/List/@(i)">
+                                    @i
+                                </a>
+                            </li>
+                        }
+                        <li class="page-item @((currentPage == totalPage) ? "disabled" : "")">
+                            <a class="page-link" href="/Team/List/@(currentPage + 1)">
+                                Next
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    }
+    else
+    {
+        <div class="mt-5"> Not Found any records</div>
+    }
+</div>
+
+@section Scripts {
+    <script>
+        function confirmPopupDelete(e) {
+            var isConfirmed = confirm('Are you sure to delete this item?');
+
+            if (isConfirmed) {
+                var deleteUrl = e.getAttribute('data-delete-url');
+                window.location.href = deleteUrl;
+            }
+
+            return false;
+        }
+    </script>
+}

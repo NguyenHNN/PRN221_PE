@@ -1,0 +1,42 @@
+﻿@page
+@model Euro2024DB_LeXuanPhuoc.Pages.Team.CreateModel
+@{
+    var firstGroupTeam = Model.GroupTeams.First();
+}
+
+<div class="container">
+    <h2 class="mt-5"> Create new</h2>
+    <form method="post" class="mt-5">
+        <div class="form-group mt-4">
+            <label asp-for="TeamToAdd.TeamName" class="form-label"></label>
+            <input asp-for="TeamToAdd.TeamName" type="text" class="form-control" />
+            <span asp-validation-for="TeamToAdd.TeamName" class="text-danger"></span>
+        </div>
+        <div class="form-group mt-4">
+            <label asp-for="TeamToAdd.Point" class="form-label"></label>
+            <input asp-for="TeamToAdd.Point" type="number" class="form-control" />
+            <span asp-validation-for="TeamToAdd.Point" class="text-danger"></span>
+        </div>
+        @* <div class="form-group mt-4">
+            <label asp-for="TeamToAdd.Position" class="form-label"></label>
+            <input asp-for="TeamToAdd.Position" type="number" class="form-control" readonly />
+            <span asp-validation-for="TeamToAdd.Position" class="text-danger"></span>
+        </div> *@
+        <div class="form-group mt-4">
+            <label asp-for="TeamToAdd.GroupId" class="form-label"> Group </label>
+            <select asp-for="TeamToAdd.GroupId" class="form-select">
+                @foreach (var item in Model.GroupTeams)
+                {
+                    <option value="@item.GroupId"
+                            selected="@((!item.GroupId.Equals(firstGroupTeam.GroupId)) ? null : "selected")">
+                        @item.GroupName
+                    </option>
+                }
+            </select>
+        </div>
+        <div class="form-group mt-4 d-flex justify-content-between">
+            <input type="submit" value="Create" class="btn btn-success mt-4 mb-5" />
+            <a class="btn btn-primary mt-4 mb-5 ms-2" href="/OilPaintingArt/List"> Back To List</a>
+        </div>
+    </form>
+</div>

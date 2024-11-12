@@ -1,0 +1,15 @@
+D:\PRN221_PE\PRN221PE_SU24_TrialTest\SourceDapAn\PRN221PE_SU24TrialTest_UyDev\DAOs\bin\Debug\net6.0\DAOs.deps.json
+D:\PRN221_PE\PRN221PE_SU24_TrialTest\SourceDapAn\PRN221PE_SU24TrialTest_UyDev\DAOs\bin\Debug\net6.0\DAOs.dll
+D:\PRN221_PE\PRN221PE_SU24_TrialTest\SourceDapAn\PRN221PE_SU24TrialTest_UyDev\DAOs\bin\Debug\net6.0\DAOs.pdb
+D:\PRN221_PE\PRN221PE_SU24_TrialTest\SourceDapAn\PRN221PE_SU24TrialTest_UyDev\DAOs\bin\Debug\net6.0\BOs.dll
+D:\PRN221_PE\PRN221PE_SU24_TrialTest\SourceDapAn\PRN221PE_SU24TrialTest_UyDev\DAOs\bin\Debug\net6.0\BOs.pdb
+D:\PRN221_PE\PRN221PE_SU24_TrialTest\SourceDapAn\PRN221PE_SU24TrialTest_UyDev\DAOs\obj\Debug\net6.0\DAOs.csproj.AssemblyReference.cache
+D:\PRN221_PE\PRN221PE_SU24_TrialTest\SourceDapAn\PRN221PE_SU24TrialTest_UyDev\DAOs\obj\Debug\net6.0\DAOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN221_PE\PRN221PE_SU24_TrialTest\SourceDapAn\PRN221PE_SU24TrialTest_UyDev\DAOs\obj\Debug\net6.0\DAOs.AssemblyInfoInputs.cache
+D:\PRN221_PE\PRN221PE_SU24_TrialTest\SourceDapAn\PRN221PE_SU24TrialTest_UyDev\DAOs\obj\Debug\net6.0\DAOs.AssemblyInfo.cs
+D:\PRN221_PE\PRN221PE_SU24_TrialTest\SourceDapAn\PRN221PE_SU24TrialTest_UyDev\DAOs\obj\Debug\net6.0\DAOs.csproj.CoreCompileInputs.cache
+D:\PRN221_PE\PRN221PE_SU24_TrialTest\SourceDapAn\PRN221PE_SU24TrialTest_UyDev\DAOs\obj\Debug\net6.0\DAOs.csproj.Up2Date
+D:\PRN221_PE\PRN221PE_SU24_TrialTest\SourceDapAn\PRN221PE_SU24TrialTest_UyDev\DAOs\obj\Debug\net6.0\DAOs.dll
+D:\PRN221_PE\PRN221PE_SU24_TrialTest\SourceDapAn\PRN221PE_SU24TrialTest_UyDev\DAOs\obj\Debug\net6.0\refint\DAOs.dll
+D:\PRN221_PE\PRN221PE_SU24_TrialTest\SourceDapAn\PRN221PE_SU24TrialTest_UyDev\DAOs\obj\Debug\net6.0\DAOs.pdb
+D:\PRN221_PE\PRN221PE_SU24_TrialTest\SourceDapAn\PRN221PE_SU24TrialTest_UyDev\DAOs\obj\Debug\net6.0\ref\DAOs.dll

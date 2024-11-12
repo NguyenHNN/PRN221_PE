@@ -1,0 +1,81 @@
+﻿@page
+@model Euro2024DB_HuynhNgocChinh.Pages.TeamManage.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+
+    string? email = HttpContext.Session.GetString("Email");
+    int? role = HttpContext.Session.GetInt32("RoleId");
+
+    if (email == null || (role == 3))
+    {
+        TempData["ErrorMessage"] = "You do not have permission to do this function";
+        Response.Redirect("/Error");
+    }
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+
+@if (role == 1)
+{
+    <form method="get">
+        <input type="text" name="searchTerm" />
+        <input type="submit" value="Search" />
+    </form>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Team[0].TeamName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Team[0].Point)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Team[0].Position)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Team[0].Group.GroupName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Team) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TeamName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Point)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Position)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Group.GroupName)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<ul class="pagination">
+    @for (var i = 1; i <= Model.TotalPages; i++)
+    {
+        <li class="page-item @(i == Model.PageIndex ? "active" : "")">
+            <a class="page-link" asp-route-pageIndex="@i">@i</a>
+        </li>
+    }
+</ul>

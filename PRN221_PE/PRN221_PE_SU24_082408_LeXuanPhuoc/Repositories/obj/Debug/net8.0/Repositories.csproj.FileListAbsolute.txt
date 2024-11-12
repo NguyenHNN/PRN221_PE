@@ -1,0 +1,17 @@
+C:\Users\PC\Downloads\PRN221_PE_SU24_082408_LeXuanPhuoc\Repositories\bin\Debug\net8.0\Repositories.deps.json
+C:\Users\PC\Downloads\PRN221_PE_SU24_082408_LeXuanPhuoc\Repositories\bin\Debug\net8.0\Repositories.dll
+C:\Users\PC\Downloads\PRN221_PE_SU24_082408_LeXuanPhuoc\Repositories\bin\Debug\net8.0\Repositories.pdb
+C:\Users\PC\Downloads\PRN221_PE_SU24_082408_LeXuanPhuoc\Repositories\bin\Debug\net8.0\BusinessObjects.dll
+C:\Users\PC\Downloads\PRN221_PE_SU24_082408_LeXuanPhuoc\Repositories\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\PC\Downloads\PRN221_PE_SU24_082408_LeXuanPhuoc\Repositories\bin\Debug\net8.0\BusinessObjects.pdb
+C:\Users\PC\Downloads\PRN221_PE_SU24_082408_LeXuanPhuoc\Repositories\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\PC\Downloads\PRN221_PE_SU24_082408_LeXuanPhuoc\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\PRN221_PE_SU24_082408_LeXuanPhuoc\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\PRN221_PE_SU24_082408_LeXuanPhuoc\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\PRN221_PE_SU24_082408_LeXuanPhuoc\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+C:\Users\PC\Downloads\PRN221_PE_SU24_082408_LeXuanPhuoc\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\PRN221_PE_SU24_082408_LeXuanPhuoc\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+C:\Users\PC\Downloads\PRN221_PE_SU24_082408_LeXuanPhuoc\Repositories\obj\Debug\net8.0\Repositories.dll
+C:\Users\PC\Downloads\PRN221_PE_SU24_082408_LeXuanPhuoc\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+C:\Users\PC\Downloads\PRN221_PE_SU24_082408_LeXuanPhuoc\Repositories\obj\Debug\net8.0\Repositories.pdb
+C:\Users\PC\Downloads\PRN221_PE_SU24_082408_LeXuanPhuoc\Repositories\obj\Debug\net8.0\ref\Repositories.dll

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN221_PE_SU24_082408_HuynhNguyenNgocNguyen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE1F19B-88A1-4CAA-B60C-69FAF494DF5B}|DataAccessObjects\\DataAccessObjects.csproj|d:\\prn221_pe_su24_082408_huynhnguyenngocnguyen\\dataaccessobjects\\euro2024dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECE1F19B-88A1-4CAA-B60C-69FAF494DF5B}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\euro2024dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EAF020-E641-46FE-9808-5B86BA263F75}|Euro2024DB_HuynhNguyenNgocNguyen\\Euro2024DB_HuynhNguyenNgocNguyen.csproj|d:\\prn221_pe_su24_082408_huynhnguyenngocnguyen\\euro2024db_huynhnguyenngocnguyen\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{93EAF020-E641-46FE-9808-5B86BA263F75}|Euro2024DB_HuynhNguyenNgocNguyen\\Euro2024DB_HuynhNguyenNgocNguyen.csproj|solutionrelative:euro2024db_huynhnguyenngocnguyen\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7566895C-0590-46CC-A76E-8E1C71ACE49D}|BusinessObjects\\BusinessObjects.csproj|d:\\prn221_pe_su24_082408_huynhnguyenngocnguyen\\businessobjects\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7566895C-0590-46CC-A76E-8E1C71ACE49D}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Euro2024DbContext.cs",
+              "DocumentMoniker": "D:\\PRN221_PE_SU24_082408_HuynhNguyenNgocNguyen\\DataAccessObjects\\Euro2024DbContext.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\Euro2024DbContext.cs",
+              "ToolTip": "D:\\PRN221_PE_SU24_082408_HuynhNguyenNgocNguyen\\DataAccessObjects\\Euro2024DbContext.cs",
+              "RelativeToolTip": "DataAccessObjects\\Euro2024DbContext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCQAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:13:12.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PRN221_PE_SU24_082408_HuynhNguyenNgocNguyen\\Euro2024DB_HuynhNguyenNgocNguyen\\appsettings.json",
+              "RelativeDocumentMoniker": "Euro2024DB_HuynhNguyenNgocNguyen\\appsettings.json",
+              "ToolTip": "D:\\PRN221_PE_SU24_082408_HuynhNguyenNgocNguyen\\Euro2024DB_HuynhNguyenNgocNguyen\\appsettings.json",
+              "RelativeToolTip": "Euro2024DB_HuynhNguyenNgocNguyen\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-09T15:02:44.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Team.cs",
+              "DocumentMoniker": "D:\\PRN221_PE_SU24_082408_HuynhNguyenNgocNguyen\\BusinessObjects\\Team.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Team.cs",
+              "ToolTip": "D:\\PRN221_PE_SU24_082408_HuynhNguyenNgocNguyen\\BusinessObjects\\Team.cs",
+              "RelativeToolTip": "BusinessObjects\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:23:00.512Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

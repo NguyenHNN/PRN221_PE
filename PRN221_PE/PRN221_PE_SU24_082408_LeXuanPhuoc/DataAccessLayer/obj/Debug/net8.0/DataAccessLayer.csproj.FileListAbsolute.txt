@@ -1,0 +1,15 @@
+C:\Users\PC\Downloads\PRN221_PE_SU24_082408_LeXuanPhuoc\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\PC\Downloads\PRN221_PE_SU24_082408_LeXuanPhuoc\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\PC\Downloads\PRN221_PE_SU24_082408_LeXuanPhuoc\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\PC\Downloads\PRN221_PE_SU24_082408_LeXuanPhuoc\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.dll
+C:\Users\PC\Downloads\PRN221_PE_SU24_082408_LeXuanPhuoc\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.pdb
+C:\Users\PC\Downloads\PRN221_PE_SU24_082408_LeXuanPhuoc\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\PRN221_PE_SU24_082408_LeXuanPhuoc\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\PRN221_PE_SU24_082408_LeXuanPhuoc\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\PRN221_PE_SU24_082408_LeXuanPhuoc\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\PC\Downloads\PRN221_PE_SU24_082408_LeXuanPhuoc\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\PRN221_PE_SU24_082408_LeXuanPhuoc\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\PC\Downloads\PRN221_PE_SU24_082408_LeXuanPhuoc\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\PC\Downloads\PRN221_PE_SU24_082408_LeXuanPhuoc\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\PC\Downloads\PRN221_PE_SU24_082408_LeXuanPhuoc\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\PC\Downloads\PRN221_PE_SU24_082408_LeXuanPhuoc\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

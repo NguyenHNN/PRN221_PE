@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CoppaItalia2024_HuynhNguyenNgocNguyen.props" />
+</Project>

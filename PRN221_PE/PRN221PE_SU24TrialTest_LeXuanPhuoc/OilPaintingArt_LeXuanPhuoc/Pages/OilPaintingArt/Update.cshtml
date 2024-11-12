@@ -1,0 +1,67 @@
+﻿@page "{OilPaintingArtId}"
+@model OilPaintingArt_LeXuanPhuoc.Pages.OilPaintingArt.UpdateModel
+@{
+    var oilUpdateModel = Model.OilPaintingArtUpdate;
+}
+
+<div class="container">
+    <h2 class="mt-5">Create new Oil Painting Art</h2>
+    <form method="post" class="mt-5">
+        <div class="form-group mt-4">
+            <input type="hidden" asp-for="OilPaintingArtUpdate.OilPaintingArtId" />
+            <label asp-for="OilPaintingArtUpdate.ArtTitle" class="form-label"></label>
+            <input asp-for="OilPaintingArtUpdate.ArtTitle" type="text" class="form-control" />
+            <span asp-validation-for="OilPaintingArtUpdate.ArtTitle" class="text-danger"></span>
+        </div>
+        <div class="form-group mt-4">
+            <label asp-for="OilPaintingArtUpdate.OilPaintingArtLocation" class="form-label"></label>
+            <input asp-for="OilPaintingArtUpdate.OilPaintingArtLocation" type="text" class="form-control" />
+            <span asp-validation-for="OilPaintingArtUpdate.OilPaintingArtLocation" class="text-danger "></span>
+        </div>
+        <div class="form-group mt-4">
+            <label asp-for="OilPaintingArtUpdate.OilPaintingArtStyle" class="form-label"></label>
+            <input asp-for="OilPaintingArtUpdate.OilPaintingArtStyle" type="text" class="form-control" />
+            <span asp-validation-for="OilPaintingArtUpdate.OilPaintingArtStyle" class="text-danger "></span>
+        </div>
+        <div class="form-group mt-4">
+            <label asp-for="OilPaintingArtUpdate.Artist" class="form-label"></label>
+            <input asp-for="OilPaintingArtUpdate.Artist" type="text" class="form-control" />
+            <span asp-validation-for="OilPaintingArtUpdate.Artist" class="text-danger "></span>
+        </div>
+        <div class="form-group mt-4">
+            <label asp-for="OilPaintingArtUpdate.NotablFeatures" class="form-label"></label>
+            <input asp-for="OilPaintingArtUpdate.NotablFeatures" type="text" class="form-control" />
+            <span asp-validation-for="OilPaintingArtUpdate.NotablFeatures" class="text-danger "></span>
+        </div>
+        <div class="form-group mt-4">
+            <label asp-for="OilPaintingArtUpdate.PriceOfOilPaintingArt" class="form-label"></label>
+            <input asp-for="OilPaintingArtUpdate.PriceOfOilPaintingArt" type="number" class="form-control" />
+            <span asp-validation-for="OilPaintingArtUpdate.PriceOfOilPaintingArt" class="text-danger "></span>
+        </div>
+        <div class="form-group mt-4">
+            <label asp-for="OilPaintingArtUpdate.StoreQuantity" class="form-label"></label>
+            <input asp-for="OilPaintingArtUpdate.StoreQuantity" type="number" class="form-control" />
+            <span asp-validation-for="OilPaintingArtUpdate.StoreQuantity" class="text-danger "></span>
+        </div>
+        <div class="form-group mt-4">
+            <label asp-for="OilPaintingArtUpdate.SupplierId" class="form-label">Supplier</label>
+            <select asp-for="OilPaintingArtUpdate.SupplierId" class="form-select">
+                @foreach (var supplier in Model.Suppliers)
+                {
+                    Console.WriteLine(supplier.SupplierId);
+                    Console.WriteLine(oilUpdateModel.SupplierId);
+                    Console.WriteLine("**********************");
+                    <option value="@supplier.SupplierId"
+                            selected="@(supplier.SupplierId.Equals(oilUpdateModel.SupplierId) ? "selected" : null)">
+                        @supplier.CompanyName
+                    </option>
+                }
+            </select>
+            <span asp-validation-for="OilPaintingArtUpdate.SupplierId" class="text-danger "></span>
+        </div>
+        <div class="form-group mt-4 d-flex justify-content-between">
+            <input type="submit" value="Update" class="btn btn-primary mt-4 mb-5" />
+            <a class="btn btn-success mt-4 mb-5 ms-2" href="/OilPaintingArt/List">Back To List</a>
+        </div>
+    </form>
+</div>

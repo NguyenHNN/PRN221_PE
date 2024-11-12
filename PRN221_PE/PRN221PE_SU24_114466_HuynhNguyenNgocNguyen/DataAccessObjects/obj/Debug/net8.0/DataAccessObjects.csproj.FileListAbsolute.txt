@@ -1,0 +1,15 @@
+D:\PRN221PE_SU24_114466_HuynhNguyenNgocNguyen\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.deps.json
+D:\PRN221PE_SU24_114466_HuynhNguyenNgocNguyen\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.dll
+D:\PRN221PE_SU24_114466_HuynhNguyenNgocNguyen\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.pdb
+D:\PRN221PE_SU24_114466_HuynhNguyenNgocNguyen\DataAccessObjects\bin\Debug\net8.0\BusinessObjects.dll
+D:\PRN221PE_SU24_114466_HuynhNguyenNgocNguyen\DataAccessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\PRN221PE_SU24_114466_HuynhNguyenNgocNguyen\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.csproj.AssemblyReference.cache
+D:\PRN221PE_SU24_114466_HuynhNguyenNgocNguyen\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN221PE_SU24_114466_HuynhNguyenNgocNguyen\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.AssemblyInfoInputs.cache
+D:\PRN221PE_SU24_114466_HuynhNguyenNgocNguyen\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.AssemblyInfo.cs
+D:\PRN221PE_SU24_114466_HuynhNguyenNgocNguyen\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.csproj.CoreCompileInputs.cache
+D:\PRN221PE_SU24_114466_HuynhNguyenNgocNguyen\DataAccessObjects\obj\Debug\net8.0\DataAcce.79975846.Up2Date
+D:\PRN221PE_SU24_114466_HuynhNguyenNgocNguyen\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.dll
+D:\PRN221PE_SU24_114466_HuynhNguyenNgocNguyen\DataAccessObjects\obj\Debug\net8.0\refint\DataAccessObjects.dll
+D:\PRN221PE_SU24_114466_HuynhNguyenNgocNguyen\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.pdb
+D:\PRN221PE_SU24_114466_HuynhNguyenNgocNguyen\DataAccessObjects\obj\Debug\net8.0\ref\DataAccessObjects.dll

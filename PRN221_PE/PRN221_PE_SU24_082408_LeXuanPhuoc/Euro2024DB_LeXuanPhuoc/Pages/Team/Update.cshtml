@@ -1,0 +1,44 @@
+﻿@page "{id:int}"
+@model Euro2024DB_LeXuanPhuoc.Pages.Team.UpdateModel
+@{
+    var firstGroupTeam = Model.GroupTeams.First();
+}
+
+<div class="container">
+    <h2 class="mt-5"> Create new</h2>
+    <form method="post" class="mt-5">
+        <input asp-for="TeamToUpdate.Id" hidden />
+        <input asp-for="TeamToUpdate.Position" hidden />
+        <div class="form-group mt-4">
+            <label asp-for="TeamToUpdate.TeamName" class="form-label"></label>
+            <input asp-for="TeamToUpdate.TeamName" type="text" class="form-control" />
+            <span asp-validation-for="TeamToUpdate.TeamName" class="text-danger"></span>
+        </div>
+        <div class="form-group mt-4">
+            <label asp-for="TeamToUpdate.Point" class="form-label"></label>
+            <input asp-for="TeamToUpdate.Point" type="number" class="form-control" />
+            <span asp-validation-for="TeamToUpdate.Point" class="text-danger"></span>
+        </div>
+        @* <div class="form-group mt-4">
+        <label asp-for="TeamToUpdate.Position" class="form-label"></label>
+        <input asp-for="TeamToUpdate.Position" type="number" class="form-control" readonly value="@((Model.TeamToUpdate.Point == 0) ? 4 : Model.TeamToUpdate.Point)" />
+        <span asp-validation-for="TeamToUpdate.Position" class="text-danger"></span>
+        </div> *@
+        <div class="form-group mt-4">
+            <label asp-for="TeamToUpdate.GroupId" class="form-label"> Group </label>
+            <select asp-for="TeamToUpdate.GroupId" class="form-select">
+                @foreach (var item in Model.GroupTeams)
+                {
+                    <option value="@item.GroupId"
+                            selected="@((!item.GroupId.Equals(firstGroupTeam.GroupId)) ? null : "selected")">
+                        @item.GroupName
+                    </option>
+                }
+            </select>
+        </div>
+        <div class="form-group mt-4 d-flex justify-content-between">
+            <input type="submit" value="Update" class="btn btn-success mt-4 mb-5" />
+            <a class="btn btn-primary mt-4 mb-5 ms-2" href="/OilPaintingArt/List"> Back To List</a>
+        </div>
+    </form>
+</div>

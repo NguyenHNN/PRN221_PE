@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\OilPaintingArt_LeXuanPhuoc.props" />
+</Project>

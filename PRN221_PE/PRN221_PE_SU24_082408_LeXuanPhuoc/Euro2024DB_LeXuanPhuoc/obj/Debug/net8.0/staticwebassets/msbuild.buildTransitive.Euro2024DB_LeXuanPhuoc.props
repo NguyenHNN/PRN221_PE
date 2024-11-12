@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Euro2024DB_LeXuanPhuoc.props" />
+</Project>

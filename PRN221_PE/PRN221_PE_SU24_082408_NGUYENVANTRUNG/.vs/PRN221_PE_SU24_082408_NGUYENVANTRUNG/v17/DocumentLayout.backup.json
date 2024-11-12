@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AA4031-4A81-40C6-8385-8461674E105B}|Business\\Business.csproj|d:\\prn221_pe\\prn221_pe_su24_082408_nguyenvantrung\\business\\accountbusinessimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AA4031-4A81-40C6-8385-8461674E105B}|Business\\Business.csproj|solutionrelative:business\\accountbusinessimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AA4031-4A81-40C6-8385-8461674E105B}|Business\\Business.csproj|d:\\prn221_pe\\prn221_pe_su24_082408_nguyenvantrung\\business\\iaccountbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AA4031-4A81-40C6-8385-8461674E105B}|Business\\Business.csproj|solutionrelative:business\\iaccountbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8C61AF-77A7-4878-AC70-46AF55456CD7}|Euro2024DB_NGUYENVANTRUNG\\Euro2024DB_NGUYENVANTRUNG.csproj|d:\\prn221_pe\\prn221_pe_su24_082408_nguyenvantrung\\euro2024db_nguyenvantrung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8C61AF-77A7-4878-AC70-46AF55456CD7}|Euro2024DB_NGUYENVANTRUNG\\Euro2024DB_NGUYENVANTRUNG.csproj|solutionrelative:euro2024db_nguyenvantrung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8C61AF-77A7-4878-AC70-46AF55456CD7}|Euro2024DB_NGUYENVANTRUNG\\Euro2024DB_NGUYENVANTRUNG.csproj|d:\\prn221_pe\\prn221_pe_su24_082408_nguyenvantrung\\euro2024db_nguyenvantrung\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A8C61AF-77A7-4878-AC70-46AF55456CD7}|Euro2024DB_NGUYENVANTRUNG\\Euro2024DB_NGUYENVANTRUNG.csproj|solutionrelative:euro2024db_nguyenvantrung\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8C61AF-77A7-4878-AC70-46AF55456CD7}|Euro2024DB_NGUYENVANTRUNG\\Euro2024DB_NGUYENVANTRUNG.csproj|d:\\prn221_pe\\prn221_pe_su24_082408_nguyenvantrung\\euro2024db_nguyenvantrung\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8C61AF-77A7-4878-AC70-46AF55456CD7}|Euro2024DB_NGUYENVANTRUNG\\Euro2024DB_NGUYENVANTRUNG.csproj|solutionrelative:euro2024db_nguyenvantrung\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8C61AF-77A7-4878-AC70-46AF55456CD7}|Euro2024DB_NGUYENVANTRUNG\\Euro2024DB_NGUYENVANTRUNG.csproj|d:\\prn221_pe\\prn221_pe_su24_082408_nguyenvantrung\\euro2024db_nguyenvantrung\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8C61AF-77A7-4878-AC70-46AF55456CD7}|Euro2024DB_NGUYENVANTRUNG\\Euro2024DB_NGUYENVANTRUNG.csproj|solutionrelative:euro2024db_nguyenvantrung\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8C61AF-77A7-4878-AC70-46AF55456CD7}|Euro2024DB_NGUYENVANTRUNG\\Euro2024DB_NGUYENVANTRUNG.csproj|d:\\prn221_pe\\prn221_pe_su24_082408_nguyenvantrung\\euro2024db_nguyenvantrung\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A8C61AF-77A7-4878-AC70-46AF55456CD7}|Euro2024DB_NGUYENVANTRUNG\\Euro2024DB_NGUYENVANTRUNG.csproj|solutionrelative:euro2024db_nguyenvantrung\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8C61AF-77A7-4878-AC70-46AF55456CD7}|Euro2024DB_NGUYENVANTRUNG\\Euro2024DB_NGUYENVANTRUNG.csproj|d:\\prn221_pe\\prn221_pe_su24_082408_nguyenvantrung\\euro2024db_nguyenvantrung\\pages\\team\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8C61AF-77A7-4878-AC70-46AF55456CD7}|Euro2024DB_NGUYENVANTRUNG\\Euro2024DB_NGUYENVANTRUNG.csproj|solutionrelative:euro2024db_nguyenvantrung\\pages\\team\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8C61AF-77A7-4878-AC70-46AF55456CD7}|Euro2024DB_NGUYENVANTRUNG\\Euro2024DB_NGUYENVANTRUNG.csproj|d:\\prn221_pe\\prn221_pe_su24_082408_nguyenvantrung\\euro2024db_nguyenvantrung\\pages\\team\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8C61AF-77A7-4878-AC70-46AF55456CD7}|Euro2024DB_NGUYENVANTRUNG\\Euro2024DB_NGUYENVANTRUNG.csproj|solutionrelative:euro2024db_nguyenvantrung\\pages\\team\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30666382-B6B3-4F51-BCEB-1C626E0A9F80}|Data\\Data.csproj|d:\\prn221_pe\\prn221_pe_su24_082408_nguyenvantrung\\data\\teamrepositoryimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30666382-B6B3-4F51-BCEB-1C626E0A9F80}|Data\\Data.csproj|solutionrelative:data\\teamrepositoryimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30666382-B6B3-4F51-BCEB-1C626E0A9F80}|Data\\Data.csproj|d:\\prn221_pe\\prn221_pe_su24_082408_nguyenvantrung\\data\\iteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30666382-B6B3-4F51-BCEB-1C626E0A9F80}|Data\\Data.csproj|solutionrelative:data\\iteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30666382-B6B3-4F51-BCEB-1C626E0A9F80}|Data\\Data.csproj|d:\\prn221_pe\\prn221_pe_su24_082408_nguyenvantrung\\data\\igroupteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30666382-B6B3-4F51-BCEB-1C626E0A9F80}|Data\\Data.csproj|solutionrelative:data\\igroupteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30666382-B6B3-4F51-BCEB-1C626E0A9F80}|Data\\Data.csproj|d:\\prn221_pe\\prn221_pe_su24_082408_nguyenvantrung\\data\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30666382-B6B3-4F51-BCEB-1C626E0A9F80}|Data\\Data.csproj|solutionrelative:data\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AA4031-4A81-40C6-8385-8461674E105B}|Business\\Business.csproj|d:\\prn221_pe\\prn221_pe_su24_082408_nguyenvantrung\\business\\iteambusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AA4031-4A81-40C6-8385-8461674E105B}|Business\\Business.csproj|solutionrelative:business\\iteambusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AA4031-4A81-40C6-8385-8461674E105B}|Business\\Business.csproj|d:\\prn221_pe\\prn221_pe_su24_082408_nguyenvantrung\\business\\teambusinessimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AA4031-4A81-40C6-8385-8461674E105B}|Business\\Business.csproj|solutionrelative:business\\teambusinessimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AA4031-4A81-40C6-8385-8461674E105B}|Business\\Business.csproj|d:\\prn221_pe\\prn221_pe_su24_082408_nguyenvantrung\\business\\igroupteambusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AA4031-4A81-40C6-8385-8461674E105B}|Business\\Business.csproj|solutionrelative:business\\igroupteambusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AA4031-4A81-40C6-8385-8461674E105B}|Business\\Business.csproj|d:\\prn221_pe\\prn221_pe_su24_082408_nguyenvantrung\\business\\groupteambusinessimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AA4031-4A81-40C6-8385-8461674E105B}|Business\\Business.csproj|solutionrelative:business\\groupteambusinessimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8C61AF-77A7-4878-AC70-46AF55456CD7}|Euro2024DB_NGUYENVANTRUNG\\Euro2024DB_NGUYENVANTRUNG.csproj|d:\\prn221_pe\\prn221_pe_su24_082408_nguyenvantrung\\euro2024db_nguyenvantrung\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A8C61AF-77A7-4878-AC70-46AF55456CD7}|Euro2024DB_NGUYENVANTRUNG\\Euro2024DB_NGUYENVANTRUNG.csproj|solutionrelative:euro2024db_nguyenvantrung\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30666382-B6B3-4F51-BCEB-1C626E0A9F80}|Data\\Data.csproj|d:\\prn221_pe\\prn221_pe_su24_082408_nguyenvantrung\\data\\groupteamrepositoryimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30666382-B6B3-4F51-BCEB-1C626E0A9F80}|Data\\Data.csproj|solutionrelative:data\\groupteamrepositoryimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30666382-B6B3-4F51-BCEB-1C626E0A9F80}|Data\\Data.csproj|d:\\prn221_pe\\prn221_pe_su24_082408_nguyenvantrung\\data\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30666382-B6B3-4F51-BCEB-1C626E0A9F80}|Data\\Data.csproj|solutionrelative:data\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8C61AF-77A7-4878-AC70-46AF55456CD7}|Euro2024DB_NGUYENVANTRUNG\\Euro2024DB_NGUYENVANTRUNG.csproj|d:\\prn221_pe\\prn221_pe_su24_082408_nguyenvantrung\\euro2024db_nguyenvantrung\\pages\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A8C61AF-77A7-4878-AC70-46AF55456CD7}|Euro2024DB_NGUYENVANTRUNG\\Euro2024DB_NGUYENVANTRUNG.csproj|solutionrelative:euro2024db_nguyenvantrung\\pages\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountBusinessImp.cs",
+              "DocumentMoniker": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Business\\AccountBusinessImp.cs",
+              "RelativeDocumentMoniker": "Business\\AccountBusinessImp.cs",
+              "ToolTip": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Business\\AccountBusinessImp.cs",
+              "RelativeToolTip": "Business\\AccountBusinessImp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T03:44:03.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Euro2024DB_NGUYENVANTRUNG\\Program.cs",
+              "RelativeDocumentMoniker": "Euro2024DB_NGUYENVANTRUNG\\Program.cs",
+              "ToolTip": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Euro2024DB_NGUYENVANTRUNG\\Program.cs",
+              "RelativeToolTip": "Euro2024DB_NGUYENVANTRUNG\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T04:21:33.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAccountBusiness.cs",
+              "DocumentMoniker": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Business\\IAccountBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\IAccountBusiness.cs",
+              "ToolTip": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Business\\IAccountBusiness.cs",
+              "RelativeToolTip": "Business\\IAccountBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T03:44:06.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Euro2024DB_NGUYENVANTRUNG\\appsettings.json",
+              "RelativeDocumentMoniker": "Euro2024DB_NGUYENVANTRUNG\\appsettings.json",
+              "ToolTip": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Euro2024DB_NGUYENVANTRUNG\\appsettings.json",
+              "RelativeToolTip": "Euro2024DB_NGUYENVANTRUNG\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-21T03:52:00.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Euro2024DB_NGUYENVANTRUNG\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Euro2024DB_NGUYENVANTRUNG\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Euro2024DB_NGUYENVANTRUNG\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Euro2024DB_NGUYENVANTRUNG\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T03:51:19.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Euro2024DB_NGUYENVANTRUNG\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Euro2024DB_NGUYENVANTRUNG\\Pages\\Login.cshtml.cs",
+              "ToolTip": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Euro2024DB_NGUYENVANTRUNG\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "Euro2024DB_NGUYENVANTRUNG\\Pages\\Login.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T03:51:37.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Euro2024DB_NGUYENVANTRUNG\\Pages\\Team\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Euro2024DB_NGUYENVANTRUNG\\Pages\\Team\\Delete.cshtml.cs",
+              "ToolTip": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Euro2024DB_NGUYENVANTRUNG\\Pages\\Team\\Delete.cshtml.cs",
+              "RelativeToolTip": "Euro2024DB_NGUYENVANTRUNG\\Pages\\Team\\Delete.cshtml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowC4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T03:49:14.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Data\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "Data\\IAccountRepository.cs",
+              "ToolTip": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Data\\IAccountRepository.cs",
+              "RelativeToolTip": "Data\\IAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T03:44:08.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IGroupTeamRepository.cs",
+              "DocumentMoniker": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Data\\IGroupTeamRepository.cs",
+              "RelativeDocumentMoniker": "Data\\IGroupTeamRepository.cs",
+              "ToolTip": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Data\\IGroupTeamRepository.cs",
+              "RelativeToolTip": "Data\\IGroupTeamRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T03:45:09.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITeamRepository.cs",
+              "DocumentMoniker": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Data\\ITeamRepository.cs",
+              "RelativeDocumentMoniker": "Data\\ITeamRepository.cs",
+              "ToolTip": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Data\\ITeamRepository.cs",
+              "RelativeToolTip": "Data\\ITeamRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T03:45:55.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TeamRepositoryImp.cs",
+              "DocumentMoniker": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Data\\TeamRepositoryImp.cs",
+              "RelativeDocumentMoniker": "Data\\TeamRepositoryImp.cs",
+              "ToolTip": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Data\\TeamRepositoryImp.cs",
+              "RelativeToolTip": "Data\\TeamRepositoryImp.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T03:44:32.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Euro2024DB_NGUYENVANTRUNG\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Euro2024DB_NGUYENVANTRUNG\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Euro2024DB_NGUYENVANTRUNG\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Euro2024DB_NGUYENVANTRUNG\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T03:45:04.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Euro2024DB_NGUYENVANTRUNG\\Pages\\Team\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Euro2024DB_NGUYENVANTRUNG\\Pages\\Team\\Index.cshtml.cs",
+              "ToolTip": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Euro2024DB_NGUYENVANTRUNG\\Pages\\Team\\Index.cshtml.cs",
+              "RelativeToolTip": "Euro2024DB_NGUYENVANTRUNG\\Pages\\Team\\Index.cshtml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA5wCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T03:42:44.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITeamBusiness.cs",
+              "DocumentMoniker": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Business\\ITeamBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\ITeamBusiness.cs",
+              "ToolTip": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Business\\ITeamBusiness.cs",
+              "RelativeToolTip": "Business\\ITeamBusiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T03:44:05.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TeamBusinessImp.cs",
+              "DocumentMoniker": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Business\\TeamBusinessImp.cs",
+              "RelativeDocumentMoniker": "Business\\TeamBusinessImp.cs",
+              "ToolTip": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Business\\TeamBusinessImp.cs",
+              "RelativeToolTip": "Business\\TeamBusinessImp.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAnwBMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T03:44:07.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IGroupTeamBusiness.cs",
+              "DocumentMoniker": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Business\\IGroupTeamBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\IGroupTeamBusiness.cs",
+              "ToolTip": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Business\\IGroupTeamBusiness.cs",
+              "RelativeToolTip": "Business\\IGroupTeamBusiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T03:44:05.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GroupTeamBusinessImp.cs",
+              "DocumentMoniker": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Business\\GroupTeamBusinessImp.cs",
+              "RelativeDocumentMoniker": "Business\\GroupTeamBusinessImp.cs",
+              "ToolTip": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Business\\GroupTeamBusinessImp.cs",
+              "RelativeToolTip": "Business\\GroupTeamBusinessImp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T03:44:18.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Euro2024DB_NGUYENVANTRUNG\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "Euro2024DB_NGUYENVANTRUNG\\Pages\\Login.cshtml",
+              "ToolTip": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Euro2024DB_NGUYENVANTRUNG\\Pages\\Login.cshtml",
+              "RelativeToolTip": "Euro2024DB_NGUYENVANTRUNG\\Pages\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T03:42:42.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GroupTeamRepositoryImp.cs",
+              "DocumentMoniker": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Data\\GroupTeamRepositoryImp.cs",
+              "RelativeDocumentMoniker": "Data\\GroupTeamRepositoryImp.cs",
+              "ToolTip": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Data\\GroupTeamRepositoryImp.cs",
+              "RelativeToolTip": "Data\\GroupTeamRepositoryImp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T03:44:08.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Data\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Data\\AccountRepository.cs",
+              "ToolTip": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Data\\AccountRepository.cs",
+              "RelativeToolTip": "Data\\AccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T03:44:13.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Euro2024DB_NGUYENVANTRUNG\\Pages\\Team\\Index.cshtml",
+              "RelativeDocumentMoniker": "Euro2024DB_NGUYENVANTRUNG\\Pages\\Team\\Index.cshtml",
+              "ToolTip": "D:\\PRN221_PE\\PRN221_PE_SU24_082408_NGUYENVANTRUNG\\Euro2024DB_NGUYENVANTRUNG\\Pages\\Team\\Index.cshtml",
+              "RelativeToolTip": "Euro2024DB_NGUYENVANTRUNG\\Pages\\Team\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T03:42:45.364Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

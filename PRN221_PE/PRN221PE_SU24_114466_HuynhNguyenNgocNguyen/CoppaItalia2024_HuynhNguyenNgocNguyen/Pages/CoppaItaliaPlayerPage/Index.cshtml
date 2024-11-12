@@ -1,0 +1,84 @@
+﻿@page
+@model CoppaItalia2024_HuynhNguyenNgocNguyen.Pages.CoppaItaliaPlayerPage.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+
+@if (TempData["Message"] != null)
+{
+    <h2 class="text-info">@TempData["Message"]</h2>
+}
+<form method="get">
+    <input type="text" name="searchTerm" />
+    <input type="submit" value="Search" />
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CoppaItaliaPlayer[0].FullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CoppaItaliaPlayer[0].Position)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CoppaItaliaPlayer[0].Birthday)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CoppaItaliaPlayer[0].InternationalCareer)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CoppaItaliaPlayer[0].StyleOfPlay)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CoppaItaliaPlayer[0].CoppaItaliaClub)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.CoppaItaliaPlayer) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FullName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Position)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Birthday)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.InternationalCareer)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StyleOfPlay)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CoppaItaliaClub.CoppaItaliaClubId)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.CoppaItaliaPlayerId">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.CoppaItaliaPlayerId">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.CoppaItaliaPlayerId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<ul class="pagination">
+    @for (var i = 1; i <= Model.TotalPages; i++)
+    {
+        <li class="page-item @(i == Model.PageIndex ? "active" : "")">
+            <a class="page-link" asp-route-pageIndex="@i">@i</a>
+        </li>
+    }
+</ul>

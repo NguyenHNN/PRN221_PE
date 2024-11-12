@@ -1,0 +1,28 @@
+﻿@page
+@model OilPaintingArt_LeXuanPhuoc.Pages.LoginModel
+@{
+    var errorMessage = ViewData["ErrorMessage"];
+}
+
+<div class="container d-flex flex-column">
+    <h2 class="mt-5">Login Page</h2>
+    <form method="post">
+        <div class="form-group mt-3">
+            <label asp-for="AccountEmail" class="form-label"></label>
+            <input asp-for="AccountEmail" type="text" class="form-control" />
+            <span asp-validation-for="AccountEmail" class="text-danger font-italic"></span>
+        </div>
+        <div class="form-group mt-3">
+            <label asp-for="AccountPassword" class="form-label"></label>
+            <input asp-for="AccountPassword" type="password" class="form-control" />
+            <span asp-validation-for="AccountPassword" class="text-danger font-italic"></span>
+        </div>
+        @if (errorMessage != null)
+        {
+            <span class="text-danger font-italic">@errorMessage</span>
+        }
+        <div class="form-group mt-3">
+            <input type="submit" class="form-control btn btn-primary" value="Submit" />
+        </div>
+    </form>
+</div>

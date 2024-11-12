@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN221PE_SU24_114466_HuynhNguyenNgocNguyen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{049D7A68-CDEA-4A48-AE24-85952F84CAC8}|CoppaItalia2024_HuynhNguyenNgocNguyen\\CoppaItalia2024_HuynhNguyenNgocNguyen.csproj|d:\\prn221pe_su24_114466_huynhnguyenngocnguyen\\coppaitalia2024_huynhnguyenngocnguyen\\pages\\coppaitaliaplayerpage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{049D7A68-CDEA-4A48-AE24-85952F84CAC8}|CoppaItalia2024_HuynhNguyenNgocNguyen\\CoppaItalia2024_HuynhNguyenNgocNguyen.csproj|solutionrelative:coppaitalia2024_huynhnguyenngocnguyen\\pages\\coppaitaliaplayerpage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E67141C-630E-4AB4-8E5B-70E7B2AA663D}|BusinessObjects\\BusinessObjects.csproj|d:\\prn221pe_su24_114466_huynhnguyenngocnguyen\\businessobjects\\coppaitaliaplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E67141C-630E-4AB4-8E5B-70E7B2AA663D}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\coppaitaliaplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049D7A68-CDEA-4A48-AE24-85952F84CAC8}|CoppaItalia2024_HuynhNguyenNgocNguyen\\CoppaItalia2024_HuynhNguyenNgocNguyen.csproj|d:\\prn221pe_su24_114466_huynhnguyenngocnguyen\\coppaitalia2024_huynhnguyenngocnguyen\\pages\\coppaitaliaplayerpage\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049D7A68-CDEA-4A48-AE24-85952F84CAC8}|CoppaItalia2024_HuynhNguyenNgocNguyen\\CoppaItalia2024_HuynhNguyenNgocNguyen.csproj|solutionrelative:coppaitalia2024_huynhnguyenngocnguyen\\pages\\coppaitaliaplayerpage\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049D7A68-CDEA-4A48-AE24-85952F84CAC8}|CoppaItalia2024_HuynhNguyenNgocNguyen\\CoppaItalia2024_HuynhNguyenNgocNguyen.csproj|d:\\prn221pe_su24_114466_huynhnguyenngocnguyen\\coppaitalia2024_huynhnguyenngocnguyen\\pages\\coppaitaliaplayerpage\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049D7A68-CDEA-4A48-AE24-85952F84CAC8}|CoppaItalia2024_HuynhNguyenNgocNguyen\\CoppaItalia2024_HuynhNguyenNgocNguyen.csproj|solutionrelative:coppaitalia2024_huynhnguyenngocnguyen\\pages\\coppaitaliaplayerpage\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoppaItaliaPlayer.cs",
+              "DocumentMoniker": "D:\\PRN221PE_SU24_114466_HuynhNguyenNgocNguyen\\BusinessObjects\\CoppaItaliaPlayer.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\CoppaItaliaPlayer.cs",
+              "ToolTip": "D:\\PRN221PE_SU24_114466_HuynhNguyenNgocNguyen\\BusinessObjects\\CoppaItaliaPlayer.cs",
+              "RelativeToolTip": "BusinessObjects\\CoppaItaliaPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:15:42.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\PRN221PE_SU24_114466_HuynhNguyenNgocNguyen\\CoppaItalia2024_HuynhNguyenNgocNguyen\\Pages\\CoppaItaliaPlayerPage\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "CoppaItalia2024_HuynhNguyenNgocNguyen\\Pages\\CoppaItaliaPlayerPage\\Edit.cshtml.cs",
+              "ToolTip": "D:\\PRN221PE_SU24_114466_HuynhNguyenNgocNguyen\\CoppaItalia2024_HuynhNguyenNgocNguyen\\Pages\\CoppaItaliaPlayerPage\\Edit.cshtml.cs",
+              "RelativeToolTip": "CoppaItalia2024_HuynhNguyenNgocNguyen\\Pages\\CoppaItaliaPlayerPage\\Edit.cshtml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwD4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:01:41.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\PRN221PE_SU24_114466_HuynhNguyenNgocNguyen\\CoppaItalia2024_HuynhNguyenNgocNguyen\\Pages\\CoppaItaliaPlayerPage\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CoppaItalia2024_HuynhNguyenNgocNguyen\\Pages\\CoppaItaliaPlayerPage\\Edit.cshtml",
+              "ToolTip": "D:\\PRN221PE_SU24_114466_HuynhNguyenNgocNguyen\\CoppaItalia2024_HuynhNguyenNgocNguyen\\Pages\\CoppaItaliaPlayerPage\\Edit.cshtml",
+              "RelativeToolTip": "CoppaItalia2024_HuynhNguyenNgocNguyen\\Pages\\CoppaItaliaPlayerPage\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T17:53:08.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\PRN221PE_SU24_114466_HuynhNguyenNgocNguyen\\CoppaItalia2024_HuynhNguyenNgocNguyen\\Pages\\CoppaItaliaPlayerPage\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "CoppaItalia2024_HuynhNguyenNgocNguyen\\Pages\\CoppaItaliaPlayerPage\\Create.cshtml.cs",
+              "ToolTip": "D:\\PRN221PE_SU24_114466_HuynhNguyenNgocNguyen\\CoppaItalia2024_HuynhNguyenNgocNguyen\\Pages\\CoppaItaliaPlayerPage\\Create.cshtml.cs",
+              "RelativeToolTip": "CoppaItalia2024_HuynhNguyenNgocNguyen\\Pages\\CoppaItaliaPlayerPage\\Create.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwCcAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:11:31.783Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
